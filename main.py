@@ -10,6 +10,7 @@ print("Local Date: ", TimeNow + " " + DateToday, "\n")
 
 
 print("выполнение if __name__ == '__main__'", "\n")
+print("Перекличка", "\n")
 if __name__ == '__main__':
     salary.calculate_salary()
     people.get_employees()
